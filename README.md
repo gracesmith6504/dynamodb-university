@@ -4,6 +4,8 @@ An interactive learning platform for mastering Amazon DynamoDB, built in collabo
 
 Industry Mentors: Deepesh Shetty & Pano Petridis (Amazon)
 
+> **Note:** Source code is held in a private institutional GitLab repository. This repo contains project documentation only.
+
 ---
 
 ## What It Does
